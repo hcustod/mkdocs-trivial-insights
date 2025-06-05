@@ -1,1 +1,7 @@
 site_name: My Docs
+
+nav: 
+  - Home: index.md
+  - Systems: 
+    - Memory: 
+      - Locality of Reference: systems/memory/locality.md
